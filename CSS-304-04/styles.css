@@ -1,0 +1,41 @@
+
+.main{
+    display: flex;
+    width:80vw;
+    height:80px;
+    background-color:#0D0620;
+    align-items: center;
+    justify-content: space-evenly;
+}
+h3{
+    color: white;
+}
+.vootlogo{
+    /* position: relative; */
+    /* left: 50px; */
+}
+.categories{
+    display: flex;
+    width: 800px;
+    height: fit-content;
+    /* border: 5px solid red; */
+    justify-content:space-around;
+    align-items: center;
+    /* position: relative;
+    left: 100px;*/
+} 
+
+p{
+   
+    color:rgba(255,255,255,70%);
+}
+.searchlogo{
+    display: flex;
+    justify-content:space-evenly;
+    color: white;
+    /* border: 3px solid blue; */
+    /* position: fixed;
+    right: 50px; */
+    height:50;
+    width: 100px;
+}
