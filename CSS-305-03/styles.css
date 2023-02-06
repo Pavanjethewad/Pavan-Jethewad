@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    height:300px;
+    width:800px;
+    border: 2px solid red;
+    
+}
+.sedans{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    
+    height:300px;
+    width:266.6px;
+    background-color:#E38826;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.suv{
+    height:300px;
+    width:266.6px;
+    background-color: #006970;
+   
+}
+.luxury{
+    height:300px;
+    width:266.6px;
+    background-color: #004241;
+}
+.button1{
+    height:40px;
+    width:130px;
+    border-radius:20px;
+    background-color: white;
+
+}
