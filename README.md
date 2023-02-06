@@ -6,3 +6,4 @@
 5) CSS-304-01 : https://pavanjethewad.github.io/Pavan-Jethewad/CSS-304-01/index.html
 6) CSS-303-01 : https://pavanjethewad.github.io/Pavan-Jethewad/CSS-303-01/index.html
 7) css-304-04 : https://pavanjethewad.github.io/Pavan-Jethewad/CSS-304-04/index.html
+8) CSS-304-02 : https://pavanjethewad.github.io/Pavan-Jethewad/CSS-304-02/index.html
