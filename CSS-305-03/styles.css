@@ -1,36 +1,106 @@
-.container{
-    display: flex;
-    height:300px;
-    width:800px;
-    border: 2px solid red;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.outerbox{
+    height:400px;
+    width: 80%;
+    /* border: 2px solid red; */
+    display:flex;
     
 }
-.sedans{
+.left{
+    width: 30%;
+    height: 100%;
+    background-color: #E38826;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 30px;
+}
+.lefticons{
     display: flex;
     flex-direction: column;
-    justify-content:center;
-    
-    height:300px;
-    width:266.6px;
-    background-color:#E38826;
-    border-bottom-left-radius: 10px;
-    border-top-left-radius: 10px;
+    gap: 40px;
+    font-family: sans-serif;
+    color: white;
 }
-.suv{
-    height:300px;
-    width:266.6px;
-    background-color: #006970;
-   
+
+.lefticons img{
+    width: 80px;
 }
-.luxury{
-    height:300px;
-    width:266.6px;
-    background-color: #004241;
-}
-.button1{
-    height:40px;
-    width:130px;
-    border-radius:20px;
+.lefticons #button1{
+    width: 130px;
+    height: 40px;
     background-color: white;
+    border-radius: 30px;
+    color: #E38826;
+    padding: 10px 20px;
+}
+
+
+.mid{
+    width: 35%;
+    height: 100%;
+    background-color: #006970;
+    padding: 30px;
 
 }
+.midicons{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.image2{
+    width: 80px;
+}
+#button2{
+    width: 130px;
+    height: 40px;
+    background-color: white;
+    border-radius: 30px;
+    color: #006970;
+    padding: 10px 20px;
+    margin:18px 0px;
+}
+.right{
+    width: 35%;
+    height: 100%;
+    background-color: #004241;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 30px;
+}
+.image3{
+    width: 80px;
+}
+.righticons{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    font-family: sans-serif;
+    color: white;
+}
+#button3{
+    width: 130px;
+    height: 40px;
+    background-color: white;
+    border-radius: 30px;
+    color: #004241;
+    padding: 10px 20px;
+    margin:18px 0px;
+}
+
+
