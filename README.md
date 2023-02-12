@@ -10,3 +10,4 @@
 9) CSS-305-01 : https://pavanjethewad.github.io/Pavan-Jethewad/CSS-305-01/index.html
 10) CSS-305-02 : https://pavanjethewad.github.io/Pavan-Jethewad/CSS-305-02/index.html
 11) CSS-304-03 : https://pavanjethewad.github.io/Pavan-Jethewad/CSS-304-03/index.html
+12) HTML-204-01: https://pavanjethewad.github.io/Pavan-Jethewad/TributePage/index.html
